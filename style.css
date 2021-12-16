@@ -1,0 +1,7 @@
+body{
+    background-color: orange;
+    color: blue;
+}
+.heading :hover{
+     border: white solid  black;
+}
